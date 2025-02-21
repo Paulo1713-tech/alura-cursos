@@ -1,0 +1,7 @@
+function adicionar(){
+
+}
+
+function limpar(){
+
+}
