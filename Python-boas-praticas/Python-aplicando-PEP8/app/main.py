@@ -18,4 +18,4 @@ app.include_router(routers_produtos.router)
 @app.get("/")
 def home() -> Dict[str, str]:
     global MENSAGEM_HOME
-    return {"mensagem": MENSAGEM_HOME}
+    return {"mensagem": MENSAGEM_HOME} 
