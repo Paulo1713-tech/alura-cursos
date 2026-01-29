@@ -23,3 +23,5 @@ n = int(input("Digite um número: "))
 soma = soma_inteiros(n)
 
 print(f"A soma de 1 a {n} é: {soma}")
+
+print("teste")
